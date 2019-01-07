@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/ericho/AndroidStudioProjects/testagbc/build/image_picker/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/home/ericho/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b5843ba03ade273b0258a7491f14b7ed/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/ericho/AndroidStudioProjects/testagbc/build/image_picker/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/home/ericho/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b5843ba03ade273b0258a7491f14b7ed/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/ericho/AndroidStudioProjects/testagbc/build/image_picker/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/home/ericho/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b5843ba03ade273b0258a7491f14b7ed/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/ericho/AndroidStudioProjects/testagbc/build/image_picker/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/home/ericho/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b5843ba03ade273b0258a7491f14b7ed/res/drawable/notification_icon_background.xml"
+    }
+]

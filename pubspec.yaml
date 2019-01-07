@@ -19,16 +19,21 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^0.1.2
-  firebase_auth: ^0.5.18
-#  google_sign_in: ^3.0.4
-#  cloud_firestore: ^0.7.4
-#  fluttertoast: ^2.0.7
-#  image_picker: ^0.4.6
-#  shared_preferences: ^0.4.2
-#  firebase_storage: ^1.0.1
-#  cached_network_image: ^0.4.1
-#  intl: ^0.15.7
+  firebase_auth: ^0.6.6
+  google_sign_in: ^3.2.4
+  cloud_firestore: ^0.8.2+3
+  fluttertoast: ^2.2.3
+  image_picker: ^0.4.10
+  shared_preferences: ^0.4.3
+  firebase_storage: ^1.0.4
+  cached_network_image: ^0.5.1
+  flutter_launcher_icons: ^0.7.0
+  intl: ^0.15.7
 
+flutter_icons:
+  android: "UNMCNMChat"
+  ios: true
+  image_path: "assets/loboicon.png"
 
 dev_dependencies:
   flutter_test:
@@ -49,7 +54,20 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
     - assets/UNM.jpg
+    - assets/unmcup.jpeg
+    - assets/cnm.jpeg
     - assets/loboicon.png
+    - assets/albuquerque.png
+    - images/img_not_available.jpeg
+    - images/lobo1.gif
+    - images/lobo2.gif
+    - images/lobo3.gif
+    - images/lobo4.gif
+    - images/lobo5.gif
+    - images/lobo6.gif
+    - images/lobo7.gif
+    - images/lobo8.gif
+    - images/lobo9.gif
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.io/assets-and-images/#resolution-aware.

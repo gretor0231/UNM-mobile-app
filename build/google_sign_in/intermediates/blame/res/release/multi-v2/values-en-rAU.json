@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/ericho/AndroidStudioProjects/testagbc/build/google_sign_in/intermediates/incremental/mergeReleaseResources/merged.dir/values-en-rAU/values-en-rAU.xml",
+            "map": [
+                {
+                    "source": "/home/ericho/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b5843ba03ade273b0258a7491f14b7ed/res/values-en-rAU/values-en-rAU.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ericho/AndroidStudioProjects/testagbc/build/google_sign_in/intermediates/res/merged/release/values-en-rAU/values-en-rAU.xml",
+            "map": [
+                {
+                    "source": "/home/ericho/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b5843ba03ade273b0258a7491f14b7ed/res/values-en-rAU/values-en-rAU.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

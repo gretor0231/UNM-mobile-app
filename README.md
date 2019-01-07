@@ -1,8 +1,29 @@
-# UNM-mobile-Chat-app
-## Description:
-* A chat app made by Flutter and Firebase.
-* Support login with google account, chat with any user, send text, image and sticker.
-* To avoid plagiarism,I only upload the login page which is main.dart.
-## Screenshot:
+# UNM & CNM Chat
 
-<img src="https://github.com/gretor0231/UNM-mobile-app/blob/master/Screenshot.png" height="50%" width="50%">
+The new chat application which for UNM & CNM students.
+
+## Getting Started
+
+This project is a starting point for a Chat application.
+
+UNM & CNM students can login form their google account, and find students form the list.
+
+Update your state, and find the person who you like.
+
+Sent messages and stickers to other people.
+
+
+1/06/2019 Android version so far, I have not finished debug of IOS version yet.(By the way, I need a Macbook )
+
+
+*****************************************************************************************
+
+Title: UNM & CNM Chat
+
+Test accounts: Any google accounts can join this App.
+
+Bio on the developer: A UNM school master of computer science department student with low GPA.
+
+Contact information: gretor0231@gmail.com
+
+Video, Unofficial transcript and final apk in the Other folder.
