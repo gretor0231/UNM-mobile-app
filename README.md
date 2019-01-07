@@ -31,5 +31,4 @@ Video, Unofficial transcript and final apk in the Other folder.
 ## Screenshot:
 
 <img src="https://github.com/gretor0231/UNM-mobile-app/tree/master/screenshots/screenshot.png?raw=true" height="35%" width="35%">
-<img src="https://raw.githubusercontent.com/duytq94/flutter-chat-demo/master/screenshots/FlutterChatDemo.gif" height="50%" width="50%">
-![ScreenShot](https://github.com/gretor0231/UNM-mobile-app/tree/master/screenshot.png)
+<img src="https://github.com/gretor0231/UNM-mobile-app/blob/master/screenshots/screenshot.png" height="50%" width="50%">
