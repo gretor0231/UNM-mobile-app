@@ -32,3 +32,4 @@ Video, Unofficial transcript and final apk in the Other folder.
 
 <img src="https://github.com/gretor0231/UNM-mobile-app/tree/master/screenshots/screenshot.png?raw=true" height="35%" width="35%">
 
+![ScreenShot](https://github.com/gretor0231/UNM-mobile-app/tree/master/screenshot.png)
