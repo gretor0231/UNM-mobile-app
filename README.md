@@ -13,7 +13,7 @@ Update your state, and find the person who you like.
 Sent messages and stickers to other people.
 
 
-1/06/2019 Android version so far, I have not finished debug of IOS version yet.(By the way, I need a Macbook )
+1/06/2019 Final version in the others file.
 
 
 *****************************************************************************************
