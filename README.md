@@ -13,7 +13,7 @@ Update your state, and find the person who you like.
 Sent messages and stickers to other people.
 
 
-1/06/2019 Final version in the others file.
+1/06/2019 Android final version in the Others file.
 
 
 *****************************************************************************************
