@@ -15,7 +15,7 @@ Sent messages and stickers to other people.
 
 1/06/2019 Android final version in the Others file.
 
-1/13/2019 IOS debug version working well on my xcode and share the same database with Android, I have not upload it to Apple Store yet.
+1/13/2019 IOS debug version working well on my xcode and share the same database with Android, I have not upload it to Apple Store yet(I need apple developer permission).
 
 
 *****************************************************************************************
