@@ -14,6 +14,7 @@ Sent messages and stickers to other people.
 
 
 1/06/2019 Android final version in the Others file.
+1/13/2019 IOS debug version working well on Macbook, I have not upload it to Apple Store yet.
 
 
 *****************************************************************************************
@@ -33,3 +34,4 @@ Video, Unofficial transcript and final apk in the Other folder.
 <img src="https://github.com/gretor0231/UNM-mobile-app/blob/master/Others/login.png" height="30%" width="30%">
 <img src="https://github.com/gretor0231/UNM-mobile-app/blob/master/Others/list.png" height="30%" width="30%">
 <img src="https://github.com/gretor0231/UNM-mobile-app/blob/master/Others/messages.png" height="30%" width="30%">
+<img src="https://github.com/gretor0231/UNM-mobile-app/blob/master/Others/ios.jpg" height="30%" width="30%">
