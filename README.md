@@ -35,4 +35,4 @@ Video, Unofficial transcript and final apk in the Other folder.
 <img src="https://github.com/gretor0231/UNM-mobile-app/blob/master/Others/login.png" height="30%" width="30%">
 <img src="https://github.com/gretor0231/UNM-mobile-app/blob/master/Others/list.png" height="30%" width="30%">
 <img src="https://github.com/gretor0231/UNM-mobile-app/blob/master/Others/messages.png" height="30%" width="30%">
-<img src="https://github.com/gretor0231/UNM-mobile-app/blob/master/Others/ios2.jpg" height="60%" width="60%">
+<img src="https://github.com/gretor0231/UNM-mobile-app/blob/master/Others/ios2.png" height="30%" width="30%">
