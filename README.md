@@ -42,5 +42,5 @@ DemoVideo, Unofficial transcript and final apk in the Other folder.
 
 ### FireBase:
 
-<img src="https://github.com/gretor0231/UNM-mobile-app/blob/master/Others/firebase.png" height="30%" width="30%">
+<img src="https://github.com/gretor0231/UNM-mobile-app/blob/master/Others/firebase.png" height="80%" width="80%">
 
