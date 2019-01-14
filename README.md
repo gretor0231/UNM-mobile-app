@@ -13,7 +13,7 @@ Update your state, and find the person who you like.
 Sent messages and stickers to other people.
 
 
-1/06/2019 Android final version in the Others file. IOS debug version working well on my xcode and share the same database with Android, I have not upload it to Apple Store yet (I need apple developer permission).
+1/06/2019 Android final version in the Others file. IOS debug version working well on my Xcode and share the same database with Android, I have not upload it to Apple Store yet (I need apple developer permission).
 
 
 *****************************************************************************************
