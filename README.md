@@ -22,7 +22,7 @@ Title: UNM & CNM Chat
 
 Test accounts: Any google accounts can join this App.
 
-Bio on the developer: A UNM school master of computer science department student with low GPA.
+Bio on the developer: A UNM school master of computer science department student.
 
 Contact information: gretor0231@gmail.com
 
