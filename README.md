@@ -26,7 +26,7 @@ Bio on the developer: A UNM school master of computer science department student
 
 Contact information: gretor0231@gmail.com
 
-DemoVideo, Unofficial transcript and final apk in the Other folder.
+DemoVideo and final apk in the Other folder.
 
 ## Screenshot:
 
